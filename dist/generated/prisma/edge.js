@@ -173,7 +173,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-      "value": "E:\\PROJECTS\\DEV\\React\\Projet Simulateur Immobilier\\server\\generated\\prisma",
+      "value": "E:\\PROJECTS\\DEV\\React\\server\\generated\\prisma",
       "fromEnvVar": null
     },
     "config": {
@@ -191,7 +191,7 @@ const config = {
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "E:\\PROJECTS\\DEV\\React\\Projet Simulateur Immobilier\\server\\prisma\\schema.prisma",
+    "sourceFilePath": "E:\\PROJECTS\\DEV\\React\\server\\prisma\\schema.prisma",
     "isCustomOutput": true
   },
   "relativeEnvPaths": {
